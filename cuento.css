@@ -1,0 +1,98 @@
+#cuento{
+    color:rgb(49, 88, 105);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    text-align: justify;
+    width: 600px;
+    margin-left: 50px;
+}
+
+#portada{
+    width:50%;
+    opacity:1.0;
+}
+
+#portada:hover{
+    opacity:0.8;
+}
+
+h1{
+    color:darkcyan;
+    text-align: center;
+    background-color: rgb(204, 255, 252); 
+}
+
+h2{
+    color:rgb(208, 250, 255);
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+#autor:visited {
+    color:rgb(172, 255, 206);
+    text-decoration:none;
+}
+
+#autor:link {
+    color:rgb(179, 255, 249);
+    text-decoration:none;
+}
+
+#autor:hover {
+    color:white;
+    text-decoration:none;
+}
+
+#autor:active {
+    color:gold;
+    text-decoration:none;
+}
+
+
+#subir{
+    font-size:xx-large ;
+}
+
+#subir:visited{
+    color:rgb(8, 87, 87);
+    font-size:xx-large ;
+}
+
+#subir:link{
+    color: teal;
+    font-size:xx-large ;
+}
+
+#subir:hover{
+    color:rgb(77, 223, 223);
+    font-size:xx-large ;
+}
+
+#subir:active {
+    color:gold;
+    font-size:xx-large ;
+}
+
+.rae{
+    color:blue;
+    text-decoration:none;
+}
+.rae:hover{
+    color:blue;
+    font-weight: bold;
+}
+
+body{
+    background-color: lightcyan;
+    background-image: url(images/water.jpg);
+}
+
+#caja{
+    background-color:lightcyan;
+    opacity: 0.7;
+    width: 700px;
+    padding-top:20px;
+    padding-bottom:15px;
+    text-align: center;
+    margin:auto;
+}
